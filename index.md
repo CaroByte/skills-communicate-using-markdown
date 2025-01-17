@@ -7,7 +7,7 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-##### Add code block below
+ Add code block below
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
@@ -15,3 +15,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+To create a list
+- [ ] New list
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+- [ ] This is a new added task
