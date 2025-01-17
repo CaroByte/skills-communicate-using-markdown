@@ -4,3 +4,5 @@
 #### Stay tuned for new learining modules
 
 ###### OK not its time to get started, lets go!
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
