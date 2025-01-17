@@ -1,7 +1,7 @@
 # Hello world
 ## I am happy to be learning Markdown
 ### It is truly a pleasure to learn a new skill
-#### Stay tuned for new learining modules
+#### Stay tuned for new learning modules
 
 ###### OK not its time to get started, lets go!
 
